@@ -16,6 +16,7 @@ function Profile() {
           />
         )}
       />
+      <Text>Profile</Text>
     </ScrollView>
   )
 }
